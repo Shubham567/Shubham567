@@ -16,7 +16,7 @@
 ### Tour to Projects
 ` Paste the following code in Browser Console(Ctrl+Shift+i), Press Enter and Enjoy an Automated Tour (*Allow Popups if Prompted)`
 ```Javascript
-var a=["joble.in","skillcounty.com/assess/","corsit.in","s759labs.com"];var f=(t)=>()=>{a.length>0?window.open("http://"+a.shift(),"_blank"):t&&clearInterval(t)};f()();var t=setInterval(f(t),7000);
+var a=["joble.in","skillcounty.com/assess/","corsit.in","s759labs.com","skillcounty.com"];var f=(t)=>()=>{a.length>0?window.open("http://"+a.shift(),"_blank"):t&&clearInterval(t)};f()();var t=setInterval(f(t),7000);
 ```
 
 
