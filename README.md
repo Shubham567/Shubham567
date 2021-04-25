@@ -38,7 +38,7 @@ var a=["joble.in","skillcounty.com","skillcounty.com/assess/"];var f=(t)=>()=>{a
 
 ## My Social Links
 <!--[![Linkedin](https://i.stack.imgur.com/gVE0j.png) Shubham567](https://www.linkedin.com/in/shubham567) -->
-[![Shubham567](https://img.shields.io/badge/-Shubham567-informational?style=flat&logo=linkedin&logoColor=white&color=1A1B27)](https://www.linkedin.com/in/shubham567)
+[![Shekhar567](https://img.shields.io/badge/-Shekhar567-informational?style=flat&logo=linkedin&logoColor=white&color=1A1B27)](https://www.linkedin.com/in/shekhar567)
 [![Shubham567](https://img.shields.io/badge/-Shubham567-informational?style=flat&logo=facebook&logoColor=white&color=1A1B27)](https://www.fb.com/shubham567)
 
 ## Some Github Stats For the sake of Data
