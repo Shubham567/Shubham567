@@ -31,8 +31,8 @@ var a=["joble.in","skillcounty.com","skillcounty.com/assess/"];var f=(t)=>()=>{a
 ![](https://img.shields.io/badge/-Java-informational?style=flat&logo=java&logoColor=white&color=1A1B27)
 ![](https://img.shields.io/badge/-Typescript-informational?style=flat&logo=typescript&logoColor=white&color=1A1B27)
 ![](https://img.shields.io/badge/-C++-informational?style=flat&logo=c&logoColor=white&color=1A1B27)
-![](https://img.shields.io/badge/Addon-WebAPIs-informational?style=flat&logo=api&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Framework-NextJs-informational?style=flat&logo=vercel&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/-WebAPIs-informational?style=flat&logo=api&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/-NextJs-informational?style=flat&logo=vercel&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/-nginx-informational?style=flat&logo=nginx&logoColor=white&color=1A1B27)
 ![](https://img.shields.io/badge/-WebStorm-informational?style=flat&logo=webstorm&logoColor=white&color=1A1B27)
 
