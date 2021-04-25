@@ -20,6 +20,9 @@
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Script-Shell-informational?style=flat&logo=shell&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/DB-SQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/DB-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Store-Redux-informational?style=flat&logo=redux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
 
 ## My Social Links
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) Shubham567](https://www.linkedin.com/in/shubham567)
