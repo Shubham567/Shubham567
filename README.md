@@ -11,7 +11,7 @@
 ## Projects I worked @ s759labs
 - [SkillCounty.com](https://skillcounty.com)
 - [JobLe.in](https://joble.in)
-- [Assessments @ Skillcounty](https://www.skillcounty.com/assess/)
+- [Assessments](https://www.skillcounty.com/assess/)
 
 ### Automated Tour to Projects
 ` Paste the following code in Browser Console(Ctrl+Shift+i), Press Enter and Enjoy an Automated Tour (*Allow Popups if Prompted)`
