@@ -1,4 +1,4 @@
-[![Shekhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubham567?theme=tokyonight&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Shekhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubham567&theme=tokyonight&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubham567&count_private=true&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Hi there 👋
