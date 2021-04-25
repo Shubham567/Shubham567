@@ -32,9 +32,9 @@ var a=["joble.in","skillcounty.com","skillcounty.com/assess/"];var f=(t)=>()=>{a
 ![](https://img.shields.io/badge/-Typescript-informational?style=flat&logo=typescript&logoColor=white&color=1A1B27)
 ![](https://img.shields.io/badge/-C++-informational?style=flat&logo=c&logoColor=white&color=1A1B27)
 ![](https://img.shields.io/badge/Addon-WebAPIs-informational?style=flat&logo=api&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Framework-NextJs-informational?style=flat&logo=next&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Server-nginx-informational?style=flat&logo=nginx&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/IDE-WebStorm-informational?style=flat&logo=webstorm&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-NextJs-informational?style=flat&logo=vercel&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/-nginx-informational?style=flat&logo=nginx&logoColor=white&color=1A1B27)
+![](https://img.shields.io/badge/-WebStorm-informational?style=flat&logo=webstorm&logoColor=white&color=1A1B27)
 
 ## My Social Links
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) Shubham567](https://www.linkedin.com/in/shubham567)
