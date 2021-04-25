@@ -10,7 +10,7 @@
 Frontend Projects I worked on @ s759labs
 - [SkillCounty.com](https://skillcounty.com)
 - [joble.in](https://joble.in)
-- [assessments @ skillcounty](https://www.skillcounty.com/assess/]
+- [assessments @ skillcounty](https://www.skillcounty.com/assess/)
 
 
 
