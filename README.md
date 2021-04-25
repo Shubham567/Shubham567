@@ -13,6 +13,13 @@
 - [joble.in](https://joble.in)
 - [assessments @ skillcounty](https://www.skillcounty.com/assess/)
 
+## Tools and Technologies
+![](https://img.shields.io/badge/Code-ReactJs-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/IDE-WebStorm-informational?style=flat&logo=webstorm&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Script-Shell-informational?style=flat&logo=shell&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/DB-PGSQL-informational?style=flat&logo=sql&logoColor=white&color=2bbc8a)
 
 ## My Social Links
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) Shubham567](https://www.linkedin.com/in/shubham567)
