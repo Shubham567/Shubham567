@@ -41,7 +41,7 @@ var a=["joble.in","skillcounty.com","skillcounty.com/assess/"];var f=(t)=>()=>{a
 [![Shekhar567](https://img.shields.io/badge/-Shekhar567-informational?style=flat&logo=linkedin&logoColor=white&color=1A1B27)](https://www.linkedin.com/in/shekhar567)
 [![Shubham567](https://img.shields.io/badge/-Shubham567-informational?style=flat&logo=facebook&logoColor=white&color=1A1B27)](https://www.fb.com/shubham567)
 
-## Some Github Stats For the sake of Data
+## Recent Github Stats
 *Some Details Are Hidden(Contribution to Private Repository)
 
 
