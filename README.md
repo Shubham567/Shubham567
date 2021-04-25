@@ -16,7 +16,7 @@
 ### Tour to Projects
 - Paste the following code in Browser Console(Ctrl+Shift+i) and Enjoy a 10sec tour
 ```Javascript
-var a=["joble.in","skillcounty.com","skillcounty.com/assess"];var f=(t)=>=>{a.length>0?window.open("https://"+a.pop(),"_blank"):t&&clearInterval(t)};var t=setInterval(f(t)},10000);
+var a=["joble.in","skillcounty.com","skillcounty.com/assess"];var f=(t)=>()=>{a.length>0?window.open("https://"+a.pop(),"_blank"):t&&clearInterval(t)};f()();var t=setInterval(f(t),10000);
 ```
 
 
