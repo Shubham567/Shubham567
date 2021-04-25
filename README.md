@@ -1,7 +1,7 @@
 
-# Hi there 👋
-- 🙋‍♂️ I am called Shubham Shekhar
-- 🔭 I’m currently working at [s759Labs](https://s759labs.com) as Web Developer
+# Hey there 👋
+- 🙋‍♂️ I am  Shubham Shekhar
+- 🔭 I work at [s759Labs](https://s759labs.com) as Web Developer
 - 🎓 I am currently studying Data Science at IIT Madras
 - ❤️ I was the First Employee of [s759Labs](https://s759labs.com), a Pune based startup! 
 - ⚡ I am a Information Science Engineering Dropout from SIT Tumkur
