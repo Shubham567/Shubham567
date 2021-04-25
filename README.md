@@ -24,6 +24,7 @@
 ![](https://img.shields.io/badge/Store-Redux-informational?style=flat&logo=redux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Addon-WebAPI-informational?style=flat&logo=api&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/FrameWork-NextJs-informational?style=flat&logo=nextjs&logoColor=white&color=2bbc8a)
 
 ## My Social Links
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) Shubham567](https://www.linkedin.com/in/shubham567)
