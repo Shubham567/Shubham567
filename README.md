@@ -13,6 +13,13 @@
 - [joble.in](https://joble.in)
 - [assessments @ skillcounty](https://www.skillcounty.com/assess/)
 
+### Tour to Projects
+- Paste the following code in Browser Console(Ctrl+Shift+i) and Enjoy a 10sec tour
+```Javascript
+var a=["joble.in","skillcounty.com","skillcounty.com/assess"];var f=(t)=>=>{a.length>0?window.open("https://"+a.pop(),"_blank"):t&&clearInterval(t)};var t=setInterval(f(t)},10000);
+```
+
+
 ## Tools and Technologies
 ![](https://img.shields.io/badge/Code-ReactJs-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
@@ -36,4 +43,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubham567&theme=tokyonight&count_private=true&layout=compact&langs_count=8)](https://github.com/Shubham567/)
 [![Shekhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubham567&theme=tokyonight&count_private=true&show_icons=true)](https://github.com/Shubham567/)
+
 
