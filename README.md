@@ -10,8 +10,8 @@
 
 ## Projects I worked @ s759labs
 - [SkillCounty.com](https://skillcounty.com)
-- [joble.in](https://joble.in)
-- [assessments @ skillcounty](https://www.skillcounty.com/assess/)
+- [JobLe.in](https://joble.in)
+- [Assessments @ Skillcounty](https://www.skillcounty.com/assess/)
 
 ### Tour to Projects
 ` Paste the following code in Browser Console(Ctrl+Shift+i), Press Enter and Enjoy an Automated Tour (*Allow Popups if Prompted)`
