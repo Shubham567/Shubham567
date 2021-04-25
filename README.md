@@ -23,17 +23,18 @@ var a=["joble.in","skillcounty.com","skillcounty.com/assess/"];var f=(t)=>()=>{a
 ## Tools and Technologies
 ![](https://img.shields.io/badge/-ReactJs-informational?style=flat&logo=react&logoColor=white&color=1A1B27)
 ![](https://img.shields.io/badge/-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=1A1B27)
-![](https://img.shields.io/badge/IDE-WebStorm-informational?style=flat&logo=webstorm&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/-Python-informational?style=flat&logo=python&logoColor=white&color=1A1B27)
 ![](https://img.shields.io/badge/-Shell_Script-informational?style=flat&logo=shell&logoColor=white&color=1A1B27)
 ![](https://img.shields.io/badge/-SQL-informational?style=flat&logo=mysql&logoColor=white&color=1A1B27)
 ![](https://img.shields.io/badge/-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=1A1B27)
 ![](https://img.shields.io/badge/-Redux-informational?style=flat&logo=redux&logoColor=white&color=1A1B27)
 ![](https://img.shields.io/badge/-Java-informational?style=flat&logo=java&logoColor=white&color=1A1B27)
+![](https://img.shields.io/badge/-Typescript-informational?style=flat&logo=typescript&logoColor=white&color=1A1B27)
 ![](https://img.shields.io/badge/-C++-informational?style=flat&logo=c&logoColor=white&color=1A1B27)
-![](https://img.shields.io/badge/Addon-WebAPI-informational?style=flat&logo=api&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Addon-WebAPIs-informational?style=flat&logo=api&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-NextJs-informational?style=flat&logo=next&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Server-nginx-informational?style=flat&logo=nginx&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/IDE-WebStorm-informational?style=flat&logo=webstorm&logoColor=white&color=2bbc8a)
 
 ## My Social Links
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) Shubham567](https://www.linkedin.com/in/shubham567)
