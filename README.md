@@ -1,4 +1,12 @@
+[![Shekhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubham567)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Hi there 👋
+
+- 🔭 I’m currently working at s759Labs
+- 📫 How to reach me: shubhamshekhar567@gmail.com
+- ⚡ Fun fact: I am a Dropout from a Tier 2+ college and got Admission in Tier 1 college!
+
+
 
 <!--
 **Shubham567/Shubham567** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
