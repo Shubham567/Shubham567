@@ -16,7 +16,7 @@
 ### Tour to Projects
 - Paste the following code in Browser Console(Ctrl+Shift+i) and Enjoy an automated tour
 ```Javascript
-var a=["joble.in","skillcounty.com","skillcounty.com/assess"];var f=(t)=>()=>{a.length>0?window.open("https://"+a.pop(),"_blank"):t&&clearInterval(t)};f()();var t=setInterval(f(t),10000);
+var a=["joble.in","skillcounty.com","skillcounty.com/assess/"];var f=(t)=>()=>{a.length>0?window.open("https://"+a.pop(),"_blank"):t&&clearInterval(t)};f()();var t=setInterval(f(t),10000);
 ```
 
 
@@ -32,6 +32,7 @@ var a=["joble.in","skillcounty.com","skillcounty.com/assess"];var f=(t)=>()=>{a.
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Addon-WebAPI-informational?style=flat&logo=api&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-NextJs-informational?style=flat&logo=next&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Server-nginx-informational?style=flat&logo=nginx&logoColor=white&color=2bbc8a)
 
 ## My Social Links
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) Shubham567](https://www.linkedin.com/in/shubham567)
