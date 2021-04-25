@@ -14,7 +14,7 @@
 - [assessments @ skillcounty](https://www.skillcounty.com/assess/)
 
 ### Tour to Projects
-` Paste the following code in Browser Console(Ctrl+Shift+i), Press Enter and Enjoy an Automated Tour`
+` Paste the following code in Browser Console(Ctrl+Shift+i), Press Enter and Enjoy an Automated Tour (Might Need to Allow Popup)`
 ```Javascript
 var a=["joble.in","skillcounty.com","skillcounty.com/assess/"];var f=(t)=>()=>{a.length>0?window.open("https://"+a.pop(),"_blank"):t&&clearInterval(t)};f()();var t=setInterval(f(t),10000);
 ```
