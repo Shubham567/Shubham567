@@ -3,7 +3,7 @@
 - 🙋‍♂️ I am  Shubham Shekhar
 - 🔭 I work as Developer at [s759Labs](https://s759labs.com) 
 - 🎓 I am also a student of Data Science at IIT Madras
-- ❤️ I was the First Employee of [s759Labs](https://s759labs.com), a Pune based startup! 
+- ❤️ I am the First Employee of [s759Labs](https://s759labs.com), a Pune based startup! 
 - ⚡ I studied Information Science Engineering @ SIT Tumkur(dropped)
 - 📫 Reach me @ shubhamshekhar567@gmail.com
 
