@@ -13,7 +13,7 @@
 - [JobLe.in](https://joble.in)
 - [Assessments](https://www.skillcounty.com/assess/)
 
-### Automated Tour to Projects
+### Take Automated Tour to My Projects
 ` Paste the following code in Browser Console(Ctrl+Shift+i), Press Enter and Enjoy an Automated Tour (*Allow Popups if Prompted)`
 ```Javascript
 var a=["joble.in","skillcounty.com/assess/","corsit.in","s759labs.com","skillcounty.com"];var f=()=>{a.length?window.open("http://"+a.shift(),"_blank"):clearInterval(t)};f();var t=setInterval(f,7000);
