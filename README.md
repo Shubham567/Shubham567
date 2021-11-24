@@ -19,7 +19,7 @@
 var a=["joble.in","skillcounty.com/assess/","corsit.in","s759labs.com","skillcounty.com"];var f=()=>{a.length?window.open("http://"+a.shift(),"_blank"):clearInterval(t)};f();var t=setInterval(f,7000);
 ```
 ## Tools and Technologies
----------------------------------------
+
 | Technology | Relevant Skills |
 | ---------- | --------------- |
 | Languages|  ![](https://img.shields.io/badge/-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=1A1B27) ![](https://img.shields.io/badge/-C++-informational?style=flat&logo=c&logoColor=white&color=1A1B27) ![](https://img.shields.io/badge/-Python-informational?style=flat&logo=python&logoColor=white&color=1A1B27) ![](https://img.shields.io/badge/-Java-informational?style=flat&logo=java&logoColor=white&color=1A1B27) ![](https://img.shields.io/badge/-Typescript-informational?style=flat&logo=typescript&logoColor=white&color=1A1B27) |
