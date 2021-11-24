@@ -1,10 +1,9 @@
-![](header.jpg)
 # Hey there 👋
 - 🙋‍♂️ I am  Shubham Shekhar
 - 🔭 I work as Developer at [s759Labs](https://s759labs.com) 
 - 🎓 I am BSc Data Science student from [IIT Madras](https://www.iitm.ac.in)
 - ❤️ First Employee of [s759Labs](https://s759labs.com)
-- ⚡ I studied Information Science Engineering @ [SIT Tumkur](www.sit.ac.in) (dropped in third year)
+- ⚡ I studied** Information Science Engineering @ [SIT Tumkur](www.sit.ac.in)
 - 📫 Reach me @ shubhamshekhar567@gmail.com
 
 
@@ -38,6 +37,8 @@ var a=["joble.in","skillcounty.com/assess/","corsit.in","s759labs.com","skillcou
 [![Shekhar567](https://img.shields.io/badge/-Shekhar567-informational?style=flat&logo=linkedin&logoColor=white&color=1A1B27)](https://www.linkedin.com/in/shekhar567)
 [![Shubham567](https://img.shields.io/badge/-Shubham567-informational?style=flat&logo=facebook&logoColor=white&color=1A1B27)](https://www.fb.com/shubham567)
 
+![live to work and work for life - shubham shekhar](header.jpg)
+
 ## Recent Github Stats
 *Some Details Are Hidden(Contribution to Private Repository)
 
@@ -45,4 +46,5 @@ var a=["joble.in","skillcounty.com/assess/","corsit.in","s759labs.com","skillcou
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubham567&theme=tokyonight&count_private=true&layout=compact&langs_count=8)](https://github.com/Shubham567/)
 [![Shekhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubham567&theme=tokyonight&count_private=true&show_icons=true)](https://github.com/Shubham567/)
 
-
+----------------------------------
+**Dropped in 3rd year from SIT
