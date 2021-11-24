@@ -1,10 +1,10 @@
-# Hey there 👋
-- 🙋‍♂️ I am  Shubham Shekhar
-- 🔭 I work as Developer at [s759Labs](https://s759labs.com) 
-- 🎓 I am BSc Data Science student from [IIT Madras](https://www.iitm.ac.in)
-- ❤️ First Employee of [s759Labs](https://s759labs.com)
+# Yoo! 
+- 🙋‍♂️ "Shubham Shekhar" is what they named me
+- 🔭 I became a Developer at [s759Labs](https://s759labs.com) 
+- 🎓 I joined BSc Data Science student from [IIT Madras](https://www.iitm.ac.in)
+- ❤️ I was first Employee of [s759Labs](https://s759labs.com)
 - ⚡ I studied** Information Science Engineering @ [SIT Tumkur](www.sit.ac.in)
-- 📫 Reach me @ shubhamshekhar567@gmail.com
+- 📫 Ping me @ shubhamshekhar567@gmail.com
 
 
 ## Projects I worked @ s759labs
@@ -39,7 +39,7 @@ var a=["joble.in","skillcounty.com/assess/","corsit.in","s759labs.com","skillcou
 
 ![live to work and work for life - shubham shekhar](header.jpg)
 
-## Recent Github Stats
+## Stats for Nerds
 *Some Details Are Hidden(Contribution to Private Repository)
 
 
