@@ -4,7 +4,7 @@
 - 🔭 I work as Developer at [s759Labs](https://s759labs.com) 
 - 🎓 I am BSc Data Science student from [IIT Madras](https://www.iitm.ac.in)
 - ❤️ First Employee of [s759Labs](https://s759labs.com)
-- ⚡ I studied Information Science Engineering @ SIT Tumkur (dropped in third year)
+- ⚡ I studied Information Science Engineering @ [SIT Tumkur](www.sit.ac.in) (dropped in third year)
 - 📫 Reach me @ shubhamshekhar567@gmail.com
 
 
