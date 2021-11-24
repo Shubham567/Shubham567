@@ -2,7 +2,7 @@
 # Hey there 👋
 - 🙋‍♂️ I am  Shubham Shekhar
 - 🔭 I work as Developer at [s759Labs](https://s759labs.com) 
-- 🎓 I am BSc Data Science student from IIT Madras
+- 🎓 I am BSc Data Science student from [IIT Madras](https://www.iitm.ac.in)
 - ❤️ First Employee of [s759Labs](https://s759labs.com)
 - ⚡ I studied Information Science Engineering @ SIT Tumkur (dropped in third year)
 - 📫 Reach me @ shubhamshekhar567@gmail.com
@@ -10,8 +10,9 @@
 
 ## Projects I worked @ s759labs
 - [SkillCounty.com](https://skillcounty.com)
+- [EdRail.com](https://www.edrail.com/)
 - [JobLe.in](https://joble.in)
-- [Assessments](https://www.skillcounty.com/assess/)
+- [s759labs.com](https://www.s759labs.com)
 
 ### Take Automated Tour to My Projects
 ` Paste the following code in Browser Console(Ctrl+Shift+i), Press Enter and Enjoy an Automated Tour (*Allow Popups if Prompted)`
