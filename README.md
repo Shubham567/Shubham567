@@ -20,7 +20,7 @@ var a=["joble.in","skillcounty.com/assess/","corsit.in","s759labs.com","skillcou
 ```
 ## Tools and Technologies
 
-| Technology | Relevant Skills |
+| Technology | Relevant Skills(38) |
 | ---------- | --------------- |
 | Languages|  ![](https://img.shields.io/badge/-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=1A1B27) ![](https://img.shields.io/badge/-C++-informational?style=flat&logo=c&logoColor=white&color=1A1B27) ![](https://img.shields.io/badge/-Python-informational?style=flat&logo=python&logoColor=white&color=1A1B27) ![](https://img.shields.io/badge/-Java-informational?style=flat&logo=java&logoColor=white&color=1A1B27) ![](https://img.shields.io/badge/-Typescript-informational?style=flat&logo=typescript&logoColor=white&color=1A1B27) |
 | Web | ![](https://img.shields.io/badge/-ReactJs-informational?style=flat&logo=react&logoColor=white&color=1A1B27) ![](https://img.shields.io/badge/-NextJs-informational?style=flat&logo=vercel&logoColor=white&color=1A1B27) ![](https://img.shields.io/badge/-Redux-informational?style=flat&logo=redux&logoColor=white&color=1A1B27) ![](https://img.shields.io/badge/-WebAPIs-informational?style=flat&logo=firefox&logoColor=white&color=1A1B27)  |
