@@ -1,3 +1,5 @@
+![Shubham Shekhkar](/myLogo.png)
+
 # Yoo! 
 - 🙋‍♂️ "Shubham Shekhar" is what they named me
 - 🔭 I became a Developer at [s759Labs](https://s759labs.com) 
