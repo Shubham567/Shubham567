@@ -1,12 +1,14 @@
 ![Shubham Shekhkar](/myLogo.png)
 
-# Yoo! 
-- 🙋‍♂️ "Shubham Shekhar" is what they named me
+# Hello Visitor! Welcome
+- 🙋‍♂️ You are visiting profile of "Shubham Shekhar", thats me!
 - 🔭 I became a Developer at [s759Labs](https://s759labs.com) 
 - 🎓 I am a BSc Data Science student [IIT Madras](https://www.iitm.ac.in)
 - ❤️ I am the first Employee of my organization [s759Labs](https://s759labs.com)
 - ⚡ I studied** Information Science Engineering @ [SIT Tumkur](www.sit.ac.in)
+- 🔥 I have contributed to Open Source.
 - 📫 Ping me @ shubhamshekhar567[at]gmail.com
+
 
 
 ## Projects I worked @ s759labs
