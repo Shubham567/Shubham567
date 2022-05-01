@@ -3,10 +3,10 @@
 # Yoo! 
 - 🙋‍♂️ "Shubham Shekhar" is what they named me
 - 🔭 I became a Developer at [s759Labs](https://s759labs.com) 
-- 🎓 I joined BSc Data Science student from [IIT Madras](https://www.iitm.ac.in)
-- ❤️ I was first Employee of [s759Labs](https://s759labs.com)
+- 🎓 I am a BSc Data Science student [IIT Madras](https://www.iitm.ac.in)
+- ❤️ I am the first Employee of my organization [s759Labs](https://s759labs.com)
 - ⚡ I studied** Information Science Engineering @ [SIT Tumkur](www.sit.ac.in)
-- 📫 Ping me @ shubhamshekhar567@gmail.com
+- 📫 Ping me @ shubhamshekhar567[at]gmail.com
 
 
 ## Projects I worked @ s759labs
