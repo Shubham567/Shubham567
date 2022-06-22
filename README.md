@@ -1,4 +1,4 @@
-![Shubham Shekhkar](/myLogo.png)
+![Shubham Shekhkar](/Shekhar.jpg)
 
 # Hello Visitor! Welcome
 - 🙋‍♂️ You are visiting profile of "Shubham Shekhar", thats me!
