@@ -2,14 +2,17 @@
 
 # Hello Visitor! Welcome
 - 🙋‍♂️ You are visiting profile of "Shubham Shekhar", thats me!
-- 🔭 I became a Developer at [s759Labs](https://s759labs.com) 
-- 🎓 I am a BSc Data Science student [IIT Madras](https://www.iitm.ac.in)
-- ❤️ I am the first Employee of my organization [s759Labs](https://s759labs.com)
+- 🔭 I stared working at [s759Labs](https://s759labs.com)
+- 🚀 I am currently working at [Newron.ai](https://newron.ai)
+- 🎓 I am also BSc Data Science student @ [IIT Madras](https://www.iitm.ac.in)
+- ❤️ I am the first Employee of my organization [s759Labs](https://s759labs.com) & [Newron.ai](https://newron.ai)
 - ⚡ I studied** Information Science Engineering @ [SIT Tumkur](www.sit.ac.in)
-- 🔥 I have contributed to Open Source.
+- 🔥 I have contributed to Open Source as well.
 - 📫 Ping me @ shubhamshekhar567[at]gmail.com
 
 
+## Projects I am currently working on
+- [Newron.ai](https://newron.ai)
 
 ## Projects I worked @ s759labs
 - [SkillCounty.com](https://skillcounty.com)
