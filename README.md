@@ -3,18 +3,19 @@
 # Hello Visitor! Welcome
 - 🙋‍♂️ You are visiting profile of "Shubham Shekhar", thats me!
 - 🔭 I stared working at [s759Labs](https://s759labs.com)
-- 🚀 I am currently working at [Newron.ai](https://newron.ai)
+- 🚀 I am currently working at my own startup!
 - 🎓 I am also BSc Data Science student @ [IIT Madras](https://www.iitm.ac.in)
-- ❤️ I am the first Employee of my organization [s759Labs](https://s759labs.com) & [Newron.ai](https://newron.ai)
+- ❤️ I have been the first Employee of my organizations [s759Labs](https://s759labs.com) & [Newron.ai](https://newron.ai)
 - ⚡ I studied** Information Science Engineering @ [SIT Tumkur](www.sit.ac.in)
-- 🔥 I have contributed to Open Source as well.
-- 📫 Ping me @ shubhamshekhar567[at]gmail.com
+- 🔥 I have contributed to Open Source.
+- 📫 Ping me @  shubhamshekhar567 [at] gmail.com
 
 
 ## Projects I am currently working on
-- [Newron.ai](https://newron.ai)
+- [Anthrope.ai](https://anthrope.ai)
 
-## Projects I worked @ s759labs
+## Places/Projects I worked
+- [Newron.ai](https://newron.ai)
 - [SkillCounty.com](https://skillcounty.com)
 - [EdRail.com](https://www.edrail.com/)
 - [JobLe.in](https://joble.in)
@@ -45,9 +46,7 @@ var a=["joble.in","skillcounty.com/assess/","corsit.in","s759labs.com","skillcou
 ## Follow Me on
 <!--[![Linkedin](https://i.stack.imgur.com/gVE0j.png) Shubham567](https://www.linkedin.com/in/shubham567) -->
 [![Shekhar567](https://img.shields.io/badge/-Shekhar567-informational?style=flat&logo=linkedin&logoColor=white&color=1A1B27)](https://www.linkedin.com/in/shekhar567)
-[![Shubham567](https://img.shields.io/badge/-Shubham567-informational?style=flat&logo=facebook&logoColor=white&color=1A1B27)](https://www.fb.com/shubham567)
 
-![live to work and work for life - shubham shekhar](header.jpg)
 
 ## Stats for Nerds
 *Some Details Are Hidden(Contribution to Private Repository)
@@ -63,7 +62,6 @@ var a=["joble.in","skillcounty.com/assess/","corsit.in","s759labs.com","skillcou
 </dl>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubham567&theme=tokyonight&count_private=true&layout=compact&langs_count=8)](https://github.com/Shubham567/)
-[![Shekhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubham567&theme=tokyonight&count_private=true&show_icons=true)](https://github.com/Shubham567/)
 
 ----------------------------------
 **Dropped in 3rd year from SIT
