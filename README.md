@@ -47,16 +47,6 @@
 ## Stats for Nerds
 *Some Details Are Hidden(Contribution to Private Repository)
 
-<iframe src="https://google.com" width="400px" height="600px"/>
-<iframe srcdoc="<p>Hello world!</p>" src="demo_iframe_srcdoc.htm"></iframe>
-<dl>
-  <dt>Definition list</dt>
-  <dd>Is something people use sometimes.</dd>
-
-  <dt>Markdown in HTML</dt>
-  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
-</dl>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubham567&theme=tokyonight&count_private=true&layout=compact&langs_count=8)](https://github.com/Shubham567/)
 
 ----------------------------------
