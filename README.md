@@ -1,10 +1,8 @@
-![Shubham Shekhkar](/Shekhar.png)
 
-# Hello Visitor! Welcome
-- 🙋‍♂️ You are visiting profile of "Shubham Shekhar", thats me!
+# About me
 - 🔭 I stared working at [s759Labs](https://s759labs.com)
 - 🚀 I am currently working at my own startup!
-- 🎓 I am also BSc Data Science student @ [IIT Madras](https://www.iitm.ac.in)
+- 🎓 I have also been a student @ [IIT Madras](https://www.iitm.ac.in)
 - ❤️ I have been the first Employee of my organizations [s759Labs](https://s759labs.com) & [Newron.ai](https://newron.ai)
 - ⚡ I studied** Information Science Engineering @ [SIT Tumkur](www.sit.ac.in)
 - 🔥 I have contributed to Open Source.
